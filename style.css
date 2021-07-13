@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color:rgb(14, 14, 17) ;
+    
+}
+button{
+    margin: 5px 3px;
+    padding: 3px;
+    text-align: center;
+}
